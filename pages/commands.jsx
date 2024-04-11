@@ -3,32 +3,87 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
-  "/autoplay",
-  "/back",
-  "/statistic",
-  "/channel",
-  "/clear",
-  "/dj",
-  "/filter",
-  "/help",
-  "/language",
-  "/loop",
-  "/nowplaying",
-  "/pause",
+  "/afk",
+  "/avatar",
+  "/avatar",
+  "/ban-list",
+  "/ban",
+  "/banner",
+  "/botlist",
+  "/buton-rol",
+  "/capslock-koruma",
+  "/captcha-görüntüle",
+  "/captcha-sistemi-sıfırla",
+  "/captcha-sistemi",
+  "/davet",
+  "/destek-sistemi-sıfırla",
+  "/destek-sistemi",
+  "/dil",
+  "/emojiler",
+  "/forceban",
+  "/giriş-çıkış-mesajı",
+  "/görsel-engel-kapat",
+  "/görsel-engel",
+  "/hesapkoruma",
+  "/hg-bb-kapat ",
+  "/hg-bb",
+  "/istatistik",
+  "/volume",
+  "/kanal-aç",
+  "/kanal-açıklama",
+  "/kanal-kilitle",
+  "/kayıt-isim-sıfırla",
+  "/kayıt-sistemi-kapat",
+  "/kayıt-sistemi",
+  "/kick",
+  "/kullanıcı-bilgi",
+  "/kurucu-kim",
+  "/küfür-engel",
+  "/level-add",
+  "/level-arkaplan",
+  "/level-log",
+  "/level-remove",
+  "/level-sistemi",
+  "/level-sıralaması",
+  "/level",
+  "/mod-log",
+  "/mute-ayar",
+  "/mute",
+  "/nsfw",
+  "/oto-cevap",
+  "/oto-rol-kapat",
+  "/oto-rol",
+  "/oto-tag-kapat",
+  "/oto-tag",
+  "/oylama",
   "/ping",
-  "/play",
-  "/playlist",
-  "/queue",
-  "/resume",
-  "/save",
-  "/search",
-  "/seek",
-  "/servers",
-  "/shuffle",
-  "/skip",
-  "/stop",
-  "/time",
-  "/volume"
+  "/random-anime",
+  "/reklam-engel",
+  "/resimli-giriş-çıkış",
+  "/rol-al",
+  "/rol-ver",
+  "/rol-oluştur",
+  "/sa-as",
+  "/say",
+  "/sil",
+  "/spotify",
+  "/sunucubilgi",
+  "/sunucukur",
+  "/sunucupp",
+  "/timeout-sistemi-sıfırla",
+  "/timeout-sistemi",
+  "/timeout",
+  "/unban",
+  "/untimeout",
+  "/yardım",
+  "/yasaklı-kelime-sıfırla",
+  "/yasaklı-kelime",
+  "/yavaş-mod",
+  "/özel-oda-kullanıcı-menü",
+  "/özel-oda-sil",
+  "/özel-oda-sistemi",
+
+
 ];
 
   return (
@@ -42,7 +97,7 @@ const commands = [
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the MusicMaker Bot.
+        You can get information about the commands of the V İ E S T A Bot.
         </p>
 
         <div>
@@ -89,21 +144,21 @@ const commands = [
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+  <Link href={"https://discord.com/oauth2/authorize?client_id=836175725518258186&permissions=8&scope=bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite MusicMaker</a>
+Invite VİESTA</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/viesta"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
+  <Link href={"https://top.gg/bot/836175725518258186/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote MusicMaker</a>
   </Link>
