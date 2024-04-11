@@ -63,7 +63,7 @@ Vote Viesta</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">Best for Your Server)</p>
+                  <p className="text-gray-500 line-clamp-4">Best for Your Server:)</p>
                 </div>
               </div>
               <div>
@@ -87,7 +87,7 @@ Vote Viesta</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://images-ext-1.discordapp.net/external/8DP_ayX1FL2OriI5_Wz7xtpQDwlAJvWfK6Ir-NSnwZQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/836175725518258186/eb5da420dbe4f64d18954c6c57d156f7.webp?format=webp&width=473&height=473"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
+                  <p className="text-3xl text-white font-semibold">Best Your Bot:)</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Viesta, the best and most up-to-date bot?</p>
                 </div>
                 <img src="https://images-ext-1.discordapp.net/external/8DP_ayX1FL2OriI5_Wz7xtpQDwlAJvWfK6Ir-NSnwZQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/836175725518258186/eb5da420dbe4f64d18954c6c57d156f7.webp?format=webp&width=473&height=473" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
