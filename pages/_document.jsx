@@ -1,3 +1,4 @@
+
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
@@ -6,7 +7,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="/logo3.jpg" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,14 +22,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="Viesta" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="/img/logo3.png"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="Are You Ready to Beautify Your Server with a Lot of Commands?"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/img/logo3.jpg" />
           <meta property="og:image:alt" content="Viesta" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +37,7 @@ class MyDocument extends Document {
             content="Viesta"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/logo3.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
