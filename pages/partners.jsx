@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://codeshare.me">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/676124992919830548/72826a4ed7d1a010df263623be5dd4ba.png" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/8DP_ayX1FL2OriI5_Wz7xtpQDwlAJvWfK6Ir-NSnwZQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/836175725518258186/eb5da420dbe4f64d18954c6c57d156f7.webp?format=webp&width=473&height=473" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
                                 <div className="flex items-center mt-1">
@@ -35,7 +35,7 @@ export default function Partners() {
                             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://codeshare.me/partners/64db583a4292ca1066ad0a1b">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1172657853056684102/1172671829673005146/maskot_profil_alev.png" />
+                            <img className="rounded-full h-32 w-32" src="hhttps://images-ext-1.discordapp.net/external/8DP_ayX1FL2OriI5_Wz7xtpQDwlAJvWfK6Ir-NSnwZQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/836175725518258186/eb5da420dbe4f64d18954c6c57d156f7.webp?format=webp&width=473&height=473" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
                                 <div className="flex items-center mt-1">
