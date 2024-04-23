@@ -23,7 +23,7 @@ class MyDocument extends Document {
           <link
             rel="icon"
             href="/img/logo3.png"
-            type="image/x-icon"
+            type="image/logo3.png"
           />
           <meta
             property="og:description"
